@@ -11,7 +11,7 @@
 ## Projects
 ### Image classification of road signs in Alberta
 
-Transfer learning was used to retrain pretrained architectures to identify 17 classes of road signs. Custom dataset using one-shot learning was used as the problem is specific. The final layers of the EfficientNetB3, RestNet50, VGG16 architectures were tuned for training on the custom dataset and a preferred model was selected for deployment. The EfficientNetB3 model had an accuracy of $84\%$ and was preferred because it is lightweight (for deployment purposes). Since there was no imbalance in the dataset, accuracy was the metric that was focused on.
+Transfer learning was used to retrain pretrained architectures to identify 17 classes of road signs. Custom dataset using one-shot learning was used as the problem is specific. The final layers of the EfficientNetB3, RestNet50, VGG16 architectures were tuned for training on the custom dataset and a preferred model was selected for deployment. The EfficientNetB3 model had an accuracy of 84% and was preferred because it is lightweight (for deployment purposes). Since there was no imbalance in the dataset, accuracy was the metric that was focused on.
 
 ![Traffic signs catalogue](assets/img/traffic_signs_grid.png)
 
