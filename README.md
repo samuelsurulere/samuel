@@ -1,4 +1,5 @@
 # Data Scientist
+Technical Skills: Python, SQL, Tableau
 
 ### Education
 Applied Mathematics, PhD
