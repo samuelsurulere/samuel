@@ -1,11 +1,6 @@
 title: Samuel Surulere
-<<<<<<< HEAD
-logo: /assets/img/headshot_circle.png
-# description: text below image
-=======
-logo: /assets/img/headshot.jpg
+logo: assets/img/headshot.png
 #description: text below image
->>>>>>> 6f26fb2c43dbbaf9b6026fe7b31646e389d60447
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
