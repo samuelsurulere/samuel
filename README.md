@@ -19,7 +19,7 @@ A sample of the model in action is shown below
 
 ![Model in action](assets/img/sample_pred.png)
 
-and you can access the web app through this [link](https://roadsignsdetection.streamlit.app/). The entire repo is available [here](https://github.com/samuelsurulere/image-classification-of-road-signs/).
+and you can access the deployed web app through this [link](https://roadsignsdetection.streamlit.app/). The entire repo is available [here](https://github.com/samuelsurulere/image-classification-of-road-signs/).
 
 ### Twitter Sentiment Analysis
 
