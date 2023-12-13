@@ -24,7 +24,7 @@ and you can access the deployed web app through this [link](https://roadsignsdet
 ### Twitter Sentiment Analysis
 
 Twitter dataset was downloaded from a Twitter API (now X). The text file was in JSON format, positive and negative tweets had to be extracted using a for-loop. Preprocessing was done and data was converted using a vectorizer. The MultinomialNB, BernoulliNB, LogisticRegression, SVC, DecisionTreeClassifier,
-RandomForest models were tested and the preferred model was selected based on recall and ROC-AUC curve. The hyperparameters of the model were optimized and saved for deployment using Flask library. The project is available for viewing [here](https://github.com/samuelsurulere/Sentiment-Analysis/).
+RandomForest models were tested and the preferred model was selected based on recall and ROC-AUC curve. The hyperparameters of the model were optimized and saved for deployment. The web app is accessible [here](https://sentweetmentanalysis.streamlit.app/). The project is available for viewing [here](https://github.com/samuelsurulere/Sentiment-Analysis/).
 
 ### Prescriptive modeling of Los Angeles crime data
 
